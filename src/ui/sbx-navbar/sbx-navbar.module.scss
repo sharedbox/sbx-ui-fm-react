@@ -1,0 +1,10 @@
+@import './../../../node_modules/sbx-userlayer/src/assets/styles/colors.scss';
+@import './../../../node_modules/sbx-userlayer/src/assets/styles/brands/automotive/gearsport.scss';
+@import './../../../node_modules/sbx-userlayer/src/assets/styles/variables.scss';
+@import './../../../node_modules/sbx-userlayer/src/assets/styles/ui/components/funcmix.scss';
+@import './../../../node_modules/sbx-userlayer/src/assets/styles/ui/components/mixin/container.scss';
+@import './../../../node_modules/sbx-userlayer/src/assets/styles/ui/components/class-elements/container.scss';
+
+.sbx_navbar_container {
+  @extend .sbx-container;
+}
